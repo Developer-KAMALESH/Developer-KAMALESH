@@ -48,10 +48,10 @@
 <img align="right" height="150" src="https://media.giphy.com/media/qIMZVXWJHQI0Qu3Pe9/giphy.gif?cid=ecf05e47xuyasvryk2x7tc9p50w81d8c2uc7ry0zwi2z49qn&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 
 <div align="right">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:kamaleshtechi@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/kamalesh-techie/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="LinkedIn" />
   </a>
 </div>
