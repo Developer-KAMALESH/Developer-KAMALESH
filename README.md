@@ -2,10 +2,30 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Developer-KAMALESH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Developer-KAMALESH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
-</div>
+### 🌟 About Me
+
+> **“The best way to predict the future is to create it.” — Peter Drucker**
+
+Hi! I'm **Kamalesh**, a final-year **Computer Science and Business Systems** student who loves building clean, functional, and user-friendly software.  
+I enjoy solving real-world problems and continuously improving my development skills through hands-on projects.
+
+---
+
+### 🎨 Creative Side
+
+Beyond coding, I love working on **graphic design** using Photoshop and Canva.  
+It helps me blend creativity with logical problem-solving.
+
+---
+
+### 🎯 My Vision
+
+My goal is to become a well-rounded engineer who builds **reliable, scalable, and user-centric** solutions.  
+I follow a simple principle in life:
+
+**Improve 1% every single day — consistently and patiently.**
+
+> **“Stay hungry, stay foolish.” — Steve Jobs**
 
 ---
 
@@ -19,12 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="Android" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="Android Studio" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="30" alt="Gradle" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
   <img width="12" />
@@ -45,7 +59,7 @@
 
 <h3 align="right">📬 To reach me!</h3>
 
-<img align="right" height="150" src="https://media.giphy.com/media/qIMZVXWJHQI0Qu3Pe9/giphy.gif?cid=ecf05e47xuyasvryk2x7tc9p50w81d8c2uc7ry0zwi2z49qn&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
+<img align="right" height="150" src="https://media.giphy.com/media/qIMZVXWJHQI0Qu3Pe9/giphy.gif" />
 
 <div align="right">
   <a href="mailto:kamaleshtechi@gmail.com">
