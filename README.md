@@ -47,15 +47,7 @@ I follow a simple principle in life:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
 </div>
 
----
 
-<h3 align="center">🏆 LeetCode Stats</h3>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/kamalesh_the_coder?theme=dark&font=Actor&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
----
 
 <h3 align="right">📬 To reach me!</h3>
 
